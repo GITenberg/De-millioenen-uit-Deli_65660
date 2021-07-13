@@ -1,0 +1,30 @@
+_repo: De-millioenen-uit-Deli_65660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, J. van den
+    aliases:
+    - Van den Brand, J.
+    - Den Brand, J. van
+    deathdate: 1921
+    gutenberg_agent_id: '53449'
+    url: http://www.gutenberg.org/2009/agents/53449
+description: ''
+gutenberg_issued: '2021-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65660'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Contract labor -- Indonesia -- Sumatra'
+- !lcsh 'Dutch -- Indonesia -- Sumatra'
+- !lcc 'HD'
+- !lcsh 'Labor laws and legislation -- Indonesia'
+- !lcsh 'Plantations -- Indonesia -- Sumatra'
+- !lcsh 'Agricultural laborers -- Indonesia -- Sumatra'
+- GITenberg
+title: De millioenen uit Deli
+url: http://www.gutenberg.org/ebooks/65660
